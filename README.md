@@ -9,9 +9,8 @@ Link Github: https://github.com/SonDyIsHere
 MSSV: 2151050390
 Link Github: https://github.com/huytan230
 4.	Trịnh Tông Hiệp 
-Link Github: https://github.com/Hieptr2106
 MSSV: 2151050138
-Link Github:
+Link Github: https://github.com/Hieptr2106
 5.	Lê Tấn Đạt
 MSSV: 2151050087
 Link Github: https://github.com/TanDatMafia 
