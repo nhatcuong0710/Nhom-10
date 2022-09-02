@@ -8,7 +8,8 @@ Link Github: https://github.com/SonDyIsHere
 3.	Nguyễn Huy Tân
 MSSV: 2151050390
 Link Github: https://github.com/huytan230
-4.	Trịnh Tông Hiệp
+4.	Trịnh Tông Hiệp 
+Link Github: https://github.com/Hieptr2106
 MSSV: 2151050138
 Link Github:
 5.	Lê Tấn Đạt
