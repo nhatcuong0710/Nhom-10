@@ -4,7 +4,7 @@ MSSV: 2151050045
 Link Github: https://github.com/nhatcuong0710
 2.	Trần Sơn Duy
 MSSV: 2151050069
-Link Github: https://github.com/SonDyIsHere
+Link Github: https://github.com/SonDy4U
 3.	Nguyễn Huy Tân
 MSSV: 2151050390
 Link Github: https://github.com/huytan230
